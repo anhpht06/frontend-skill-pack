@@ -1,5 +1,5 @@
 ---
-name: Design System, Accessibility & i18n
+name: 07-design-system
 description: Quy chuẩn về hệ thống thiết kế, a11y, layout grid và đa ngôn ngữ.
 ---
 

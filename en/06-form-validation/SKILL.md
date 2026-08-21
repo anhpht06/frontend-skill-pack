@@ -1,5 +1,5 @@
 ---
-name: Form Management & Validation
+name: 06-form-validation
 description: Form management and validation using React Hook Form and Zod.
 ---
 

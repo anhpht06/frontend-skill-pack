@@ -1,5 +1,5 @@
 ---
-name: Routing & Navigation (Next.js)
+name: 04-router
 description: Guidelines for routing, navigation, and file structure in Next.js App Router.
 ---
 

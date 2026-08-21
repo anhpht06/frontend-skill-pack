@@ -1,5 +1,5 @@
 ---
-name: Service Layer & Authentication
+name: 03-service-and-auth
 description: Kiến trúc 3 tầng cho API, Anti-Corruption Layer, và quản lý Auth Token nâng cao.
 ---
 

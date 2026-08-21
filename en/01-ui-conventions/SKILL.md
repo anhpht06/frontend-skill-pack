@@ -1,5 +1,5 @@
 ---
-name: Frontend UI Conventions (React / Next.js)
+name: 01-ui-conventions
 description: Guidelines and rules for writing and organizing UI Components in React/Next.js projects.
 ---
 

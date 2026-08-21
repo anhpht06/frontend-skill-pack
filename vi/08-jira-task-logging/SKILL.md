@@ -1,5 +1,5 @@
 ---
-name: Jira Daily Task Logging
+name: 08-jira-task-logging
 description: Hướng dẫn quy tắc và định dạng bắt buộc khi lập kế hoạch và tạo log công việc hàng ngày trên Jira.
 ---
 

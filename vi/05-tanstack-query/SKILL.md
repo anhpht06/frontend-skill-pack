@@ -1,5 +1,5 @@
 ---
-name: Data Fetching & Server State (TanStack Query)
+name: 05-tanstack-query
 description: Kiến trúc 2 tầng quản lý API Data Fetching với TanStack Query v5.
 ---
 

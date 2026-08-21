@@ -1,5 +1,5 @@
 ---
-name: Service Layer & Authentication
+name: 03-service-and-auth
 description: 3-tier API architecture, Anti-Corruption Layer, and advanced Auth Token management.
 ---
 

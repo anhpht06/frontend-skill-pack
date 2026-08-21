@@ -1,5 +1,5 @@
 ---
-name: Routing & Navigation (Next.js)
+name: 04-router
 description: Hướng dẫn quy tắc định tuyến, chuyển trang và cấu trúc file trong Next.js App Router.
 ---
 

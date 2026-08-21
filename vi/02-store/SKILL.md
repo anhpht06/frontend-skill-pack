@@ -1,5 +1,5 @@
 ---
-name: Global State Management (Zustand)
+name: 02-store
 description: Hướng dẫn sử dụng Zustand cho việc quản lý trạng thái toàn cục (Global State).
 ---
 

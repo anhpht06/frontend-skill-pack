@@ -1,5 +1,5 @@
 ---
-name: Data Fetching & Server State (TanStack Query)
+name: 05-tanstack-query
 description: 2-tier architecture for API Data Fetching with TanStack Query v5.
 ---
 

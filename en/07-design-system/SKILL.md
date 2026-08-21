@@ -1,5 +1,5 @@
 ---
-name: Design System, Accessibility & i18n
+name: 07-design-system
 description: Standards for design systems, a11y, layout grids, and internationalization.
 ---
 

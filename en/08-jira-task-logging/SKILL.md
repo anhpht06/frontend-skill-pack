@@ -1,5 +1,5 @@
 ---
-name: Jira Daily Task Logging
+name: 08-jira-task-logging
 description: Guidelines and strict formatting rules for planning and generating daily Jira worklogs.
 ---
 

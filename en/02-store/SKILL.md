@@ -1,5 +1,5 @@
 ---
-name: Global State Management (Zustand)
+name: 02-store
 description: Guidelines for using Zustand for global state management.
 ---
 
