@@ -11,8 +11,8 @@ Tài liệu này quy định cách AI Agent hỗ trợ Developer phân tách, l�
 
 Mỗi một log công việc phải tuân thủ nghiêm ngặt template sau:
 
-### [PROJECT-KEY] | [FE] <Nội dung công việc ngắn gọn>
-- **title**: [PROJECT-KEY] | [FE] <Nội dung công việc ngắn gọn>
+### [PROJECT-KEY] | [FE/BE] <Nội dung công việc ngắn gọn>
+- **title**: [PROJECT-KEY] | [FE/BE] <Nội dung công việc ngắn gọn>
 - **Thời lượng**: <0.5h | 1h | 2h | 3h>
 - **Ngày**: dd/mm/yyyy (Thứ X)
 - **description**:
@@ -21,7 +21,7 @@ Mỗi một log công việc phải tuân thủ nghiêm ngặt template sau:
   - Test: (Bắt buộc đối với các task làm tính năng - feature)
     - <2-4 gạch đầu dòng: ghi rõ loại test (unit/integration/manual) — input là gì, kỳ vọng (expectation) là gì>
 
-*Lưu ý: Thay `[PROJECT-KEY]` bằng mã dự án thực tế. Chỉ thêm `[FE]` vào title nếu đây là task liên quan đến Frontend.*
+*Lưu ý: Thay `[PROJECT-KEY]` bằng mã dự án thực tế. Thêm `[FE]` vào title nếu là task Frontend, hoặc `[BE]` nếu là task Backend.*
 
 ## 2. Quy Tắc Về Thời Gian (Time Tracking)
 

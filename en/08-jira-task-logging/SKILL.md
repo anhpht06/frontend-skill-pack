@@ -11,8 +11,8 @@ This document outlines how an AI Agent should assist Developers in breaking down
 
 Every single worklog must strictly adhere to the following template:
 
-### [PROJECT-KEY] | [FE] <Brief task description>
-- **title**: [PROJECT-KEY] | [FE] <Brief task description>
+### [PROJECT-KEY] | [FE/BE] <Brief task description>
+- **title**: [PROJECT-KEY] | [FE/BE] <Brief task description>
 - **Duration**: <0.5h | 1h | 2h | 3h>
 - **Date**: dd/mm/yyyy (Day of week)
 - **description**:
@@ -21,7 +21,7 @@ Every single worklog must strictly adhere to the following template:
   - Test: (Mandatory for feature tasks)
     - <2-4 bullet points: specify test type (unit/integration/manual) — what is the input, what is the expected outcome>
 
-*Note: Replace `[PROJECT-KEY]` with the actual project key. Only prepend `[FE]` to the title if the task relates to Frontend development.*
+*Note: Replace `[PROJECT-KEY]` with the actual project key. Prepend `[FE]` to the title if the task relates to Frontend, or `[BE]` if it relates to Backend.*
 
 ## 2. Time Tracking Rules
 
